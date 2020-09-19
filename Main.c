@@ -2,6 +2,7 @@
 Rafael Díaz Medina A01024592 Actividad 5 Testigos
 Me base en su programa de Pipe de el repositorio que nos compartio
 También menciono que esta vez trabaje con Edgar García mi equipo de la materia
+No logre volver a abrir el proceso despues de cerrarlo y cuando no lo cierro mi programa deja de funcionar
 */
 #include <stdio.h>
 #include <stdlib.h>
